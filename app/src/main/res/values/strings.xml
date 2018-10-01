@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Entended_App</string>
+    <string name="speech_prompt">Speak Now</string>
+    <string name="speech_not_supported">Please enter valid value</string>
+</resources>
